@@ -1,0 +1,25 @@
+const county_data = [
+  { city: "台北市", cityEng: "Taipei", id: 1 },
+  { city: "新北市", cityEng: "NewTaipei", id: 2 },
+  { city: "桃園市", cityEng: "Taoyuan", id: 3 },
+  { city: "台中市", cityEng: "Taichung", id: 4 },
+  { city: "台南市", cityEng: "Tainan", id: 5 },
+  { city: "高雄市", cityEng: "Kaohsiung", id: 6 },
+  { city: "新竹縣", cityEng: "HsinchuCounty", id: 7 },
+  { city: "苗栗縣", cityEng: "MiaoliCounty", id: 8 },
+  { city: "彰化縣", cityEng: "ChanghuaCounty", id: 9 },
+  { city: "南投縣", cityEng: "NantouCounty", id: 10 },
+  { city: "雲林縣", cityEng: "YunlinCounty", id: 11 },
+  { city: "嘉義縣", cityEng: "ChiayiCounty", id: 12 },
+  { city: "宜蘭縣", cityEng: "YilanCounty", id: 13 },
+  { city: "花蓮縣", cityEng: "HualienCounty", id: 14 },
+  { city: "台東縣", cityEng: "TaitungCounty", id: 15 },
+  { city: "澎湖縣", cityEng: "PenghuCounty", id: 16 },
+  { city: "金門縣", cityEng: "KinmenCounty", id: 17 },
+  { city: "連江縣", cityEng: "LienchiangCounty", id: 18 },
+  { city: "基隆市", cityEng: "Keelung", id: 19 },
+  { city: "新竹市", cityEng: "Hsinchu", id: 20 },
+  { city: "嘉義市", cityEng: "Chiayi", id: 21 },
+];
+
+export default county_data;
